@@ -1,4 +1,7 @@
 # eosiopowcoin
+
+https://www.eospow.org/
+
 EOS PoW Coin (POW)
 EOS Proof of Work Coin (POW) applies the PoW (Proof of Work) mining schedule and adjusting difficulty of Bitcoin (BTC) [2] to an EOSIO [3] Token.  
 
