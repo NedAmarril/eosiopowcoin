@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg8"
+   sodipodi:docname="PoW Symbol Orange.svg"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.24748737"
+     inkscape:cx="1277.1371"
+     inkscape:cy="979.56367"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot14"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       transform="matrix(0.26458333,0,0,0.26458333,-38.55357,9.4494048)"><flowRegion
+         id="flowRegion16"><rect
+           id="rect18"
+           width="340"
+           height="235.71428"
+           x="131.42857"
+           y="239.66254" /></flowRegion><flowPara
+         id="flowPara20" /></flowRoot>    <g
+       id="g5029"
+       transform="matrix(2.6316952,0.46265001,-0.46403889,2.6238184,-79.94936,-323.28093)"
+       style="fill:#ff9200;fill-opacity:1"
+       inkscape:label="#006633">
+      <circle
+         r="32.181549"
+         transform="scale(-1)"
+         cy="-161.10873"
+         cx="-98.552902"
+         id="path22"
+         style="opacity:1;fill:#ff9200;fill-opacity:1;stroke-width:0.21563187" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:33.87819672px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.84695476"
+       x="85.002312"
+       y="186.6156"
+       id="text12"
+       transform="matrix(0.99264646,0.17227692,-0.17503035,0.97703095,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan10"
+         x="85.002312"
+         y="186.6156"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:162.61535645px;font-family:Sylfaen;-inkscape-font-specification:Sylfaen;fill:#ffffff;stroke-width:0.84695476">P</tspan></text>
+    <rect
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke-width:0.26458332"
+       id="rect65"
+       width="0"
+       height="7.1815491"
+       x="103.94344"
+       y="141.65178" />
+    <rect
+       style="fill:#ffffff;fill-rule:evenodd;stroke-width:0.26740393"
+       id="rect56"
+       width="21.069265"
+       height="4.321918"
+       x="114.94395"
+       y="134.04344"
+       transform="rotate(10)" />
+    <rect
+       style="fill:#ffffff;fill-rule:evenodd;stroke-width:0.26740393"
+       id="rect72"
+       width="8.6438007"
+       height="86.438011"
+       x="134.39253"
+       y="63.812561"
+       transform="rotate(10)" />
+    <rect
+       style="fill:#ffffff;fill-rule:evenodd;stroke-width:0.26740393"
+       id="rect83"
+       width="8.1035633"
+       height="22.689978"
+       x="111.70253"
+       y="63.812553"
+       transform="rotate(10)" />
+    <rect
+       style="fill:#ffffff;fill-rule:evenodd;stroke-width:0.26740393"
+       id="rect85"
+       width="47.540901"
+       height="4.3218908"
+       x="91.713745"
+       y="80.019684"
+       transform="rotate(10)" />
+    <ellipse
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#ff9200;stroke-width:9.37798405;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path4573"
+       cx="105.08895"
+       cy="144.51903"
+       rx="98.265663"
+       ry="98.47551" />
+  </g>
+</svg>
