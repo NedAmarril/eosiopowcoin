@@ -29,5 +29,5 @@ Send BTC donations to 1PoWbtCnsc3VfhJX3P6mdrAdZWUJ6qLTE9
 
 Bitcoin pow algo is a religion... a very social outcome.
 
--Dr. Ned Amarril
+Ned Amarril
 
