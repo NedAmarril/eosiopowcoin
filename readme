@@ -2,9 +2,9 @@ https://www.eospow.org/
 
 EOS Proof of Work Coin (POW) applies the PoW (Proof of Work) mining schedule and adjusting difficulty of Bitcoin (BTC) [2] to an EOSIO [3] Token.
 
-50 POW are minted every 10 minutes for about 4 years, then the amount minted halves. This will repeat until there are 21 million POW, exactly like BTC.
+50 POW are minted every 10 minutes for about 4 years, then the amount minted halves. This repeats until there are 21 million POW, exactly like BTC.
 
-EOS CPU & NET resources are used to mine POW by transferring EOS to eosiopowcoin. This will result in a refund of that exact amount of EOS plus 0.0025% of the total POW supply in the eosiopowcoin account.
+EOS CPU & NET resources are used to mine POW by transferring EOS to eosiopowcoin. Each time you send EOS to the eosiopowcoin contract account, that exact amount of EOS plus 0.0025% of the total POW supply in the eosiopowcoin account will be transferred back to you.  
 
 POW is a completely decentralized, open-source project with no developer share or allocation. Anyone can mine POW after using the setuperminer action. POW minting will continue until supply reaches 21 Million.
 
